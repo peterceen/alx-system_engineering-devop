@@ -1,2 +1,2 @@
 #!/bin/bash
-file >> cat iamafile
+file  /tmp/iamfile
