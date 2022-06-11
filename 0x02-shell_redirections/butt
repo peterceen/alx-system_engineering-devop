@@ -13,3 +13,9 @@ drwxr-xr-x 6 root root 121 Jun  7 23:12 ..
 -rw-r--r-- 1 root root   0 Jun 11 07:06 butt
 -rw-r--r-- 1 root root  29 Jun  7 23:12 README.md
 -rw-r--r-- 1 root root  29 Jun  7 23:12 README.md
+-rwxr--r-- 1 root root  40 Jun  8 18:30 6-third_line
+-rwxr--r-- 1 root root  75 Jun 11 06:57 7-file
+-rw-r--r-- 1 root root  36 Jun 11 07:04 8-cwd_state
+-rw-r--r-- 1 root root   0 Jun 11 07:06 butt
+-rw-r--r-- 1 root root  29 Jun  7 23:12 README.md
+-rw-r--r-- 1 root root  29 Jun  7 23:12 README.md
